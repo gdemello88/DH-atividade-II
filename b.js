@@ -1,0 +1,1 @@
+var frase = " meu nome é Inglide e moro em São Paulo";
